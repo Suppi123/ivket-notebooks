@@ -20,5 +20,5 @@ Contains the code for fine-tuning various Transformer models using the dataset g
 ### Evaluate_Models.ipynb
 Contains code with which the models can be evaluated. By default, the models that were fine-tuned during the master thesis are used.
 
-## Test_Models_Manually.ipynb
+### Test_Models_Manually.ipynb
 Contains code with which the models can be easily and quickly tested manually
