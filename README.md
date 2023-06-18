@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/655081638.svg)](https://zenodo.org/badge/latestdoi/655081638)
+
 # Individualisierung von künstlich erzeugten Texten / Individualization of artificially generated texts
 
 This repository contains Jupyter notebooks for the master thesis "Individualization of artificially generated texts".
