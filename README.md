@@ -30,6 +30,6 @@ Contains code with which the models can be evaluated. By default, the models tha
 ### Test_Models_Manually.ipynb
 Contains code with which the models can be easily and quickly tested manually.
 
-## Datensatz
+## Dataset
 The dataset created for this project can be found here: https://zenodo.org/record/8051180
 
