@@ -12,7 +12,7 @@ Training the models requires a graphics card with at least 50GB of graphics memo
 ## Content
 
 ### Crawl_Data.ipynb
-This notebook presents how Reddit comments were extracted from the Pushshift Reddit dataset.
+This notebook presents how Reddit comments were extracted from the Pushshift Reddit dataset (https://zenodo.org/record/3608135).
 It also contains functionality to filter the data thus obtained according to certain criteria. Furthermore, the perplexity of the comments can be calculated.
 
 ### Create_Formal_Style_Transfer.ipynb
@@ -28,4 +28,8 @@ Contains the code for fine-tuning various Transformer models using the dataset g
 Contains code with which the models can be evaluated. By default, the models that were fine-tuned during the master thesis are used.
 
 ### Test_Models_Manually.ipynb
-Contains code with which the models can be easily and quickly tested manually
+Contains code with which the models can be easily and quickly tested manually.
+
+## Datensatz
+The dataset created for this project can be found here: https://zenodo.org/record/8051180
+
